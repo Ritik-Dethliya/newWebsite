@@ -28,11 +28,11 @@ This is the first webpage code on GitHub<br>
 </p><hr>
 <h2>Details About features</h2>
 <p>
-    <b>Customer Reviews & Testimonials:</b>
+    <b>1. Customer Reviews & Testimonials:</b>
     Review System: Allow customers to leave reviews and read feedback from others.<br>
     Ratings: Display star ratings for services and barbers to help customers make informed
     decisions. <br>
-    <b>Gallery/Portfolio:</b>
+    <b>2. Gallery/Portfolio:</b>
     Before & After Photos: A section to show high-quality photos of your work, including haircuts, <br>
      beard trims, and styling. <br>
     Instagram Feed: Integrate your Instagram feed for real-time updates and additional visual content.
