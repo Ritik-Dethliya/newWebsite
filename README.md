@@ -1,7 +1,9 @@
 # newWebsite
-This is the first webpage code on GitHub<br>
+Contact detail of <b>Author</b><br>
 <b>Author<b>:Ritik Dethliya<br>
-<b>BY:Ritik</b><br>
+<b>Email:<b>ritikdethliya0@gmail.com<br>
+<b>Mobile.no</b>7869882466<br>
+<b>Ready to collrabate <b>on django,Reactjs<br>
 <b>Title:Barbersite<b><hr>
 <h3>Installation details<h3>
 <h4><b>Django</b></h4>
