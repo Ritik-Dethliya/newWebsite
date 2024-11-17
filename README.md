@@ -2,7 +2,7 @@
 This is the first webpage code on GitHub<br>
 <b>Author<b>:Ritik Dethliya<br>
 <b>BY:Ritik</b><br>
-<b>Title:Barbersite<b><br>
+<b>Title:Barbersite<b><hr>
 <h3>Installation details<h3>
 <h4><b>Django</b></h4>
 <p>django need to install at global level</p>
